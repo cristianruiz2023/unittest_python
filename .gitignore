@@ -1,0 +1,20 @@
+# PyCharm
+.idea/
+
+# Virtual Environment
+venv/
+
+# Python cache
+*.pyc
+*.pyo
+__pycache__
+
+# Others
+*.log
+*.swp
+*.bak
+*.tmp
+*.db
+*.sqlite3
+*.pdf
+*.pyd# End of https://www.toptal.com/developers/gitignore/api/pycharm,python,venv
